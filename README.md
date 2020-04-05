@@ -2,5 +2,5 @@
 
 A space game using python
 
- ![](images.png)
+ ![](/image.png)
 
